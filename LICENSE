@@ -1,22 +1,32 @@
-Copyright [2025–present] 
+License and Patent Notice
 
-CUT3R is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 License.  
+This repository contains upstream code and local modifications. The upstream
+copyright and license notices are retained below. Additional restrictions apply
+to the DPT-GS / DPT-2DGS extensions and related modifications authored by
+saguru23, to the extent permitted by the upstream licenses and applicable law.
 
-To view a copy of the CC BY-NC-SA 4.0, visit:  
-https://creativecommons.org/licenses/by-nc-sa/4.0/  
+1. CUT3R upstream license
+
+CUT3R is licensed under the Creative Commons Attribution-NonCommercial-
+ShareAlike 4.0 International License.
+
+Copyright [2025-present]
+
+To view a copy of CC BY-NC-SA 4.0, visit:
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+2. TTT3R upstream license
+
 MIT License
 
 Copyright (c) 2025 Inception3D
 
-TTT3R modifications and DPT-GS / DPT-2DGS extensions:
-Copyright (c) 2026 saguru23.
-
 Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+of the TTT3R upstream software and associated documentation files (the
+"Software"), to deal in the Software without restriction, including without
+limitation the rights to use, copy, modify, merge, publish, distribute,
+sublicense, and/or sell copies of the Software, and to permit persons to whom
+the Software is furnished to do so, subject to the following conditions:
 
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
@@ -28,3 +38,38 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+3. DPT-GS / DPT-2DGS extensions
+
+Copyright (c) 2026 saguru23. All rights reserved.
+
+The DPT-GS / DPT-2DGS training code, rendering extensions, Gaussian-head
+modifications, documentation authored for this project, and related local
+changes are provided for non-commercial research and evaluation only.
+
+Without prior written permission from saguru23, you may not:
+
+- use these extensions for commercial purposes;
+- sell, sublicense, or commercially redistribute these extensions;
+- deploy these extensions in a production or paid service;
+- use these extensions to train, evaluate, or improve a commercial product;
+- remove or alter this notice or the upstream license notices.
+
+Patent rights are expressly reserved. No license is granted, by implication,
+estoppel, or otherwise, under any patent, patent application, or patent claim
+owned or controlled by saguru23. Any use that practices, implements, makes,
+has made, uses, sells, offers to sell, imports, or otherwise exploits an
+invention claimed by such patent rights requires a separate written patent
+license from saguru23.
+
+These additional terms apply only to saguru23's original contributions and
+modifications. They do not limit rights that a recipient already has under
+the upstream CUT3R or TTT3R licenses, nor do they remove any obligations
+imposed by those upstream licenses.
+
+4. No warranty
+
+Unless required by applicable law or agreed to in writing, this repository is
+provided "AS IS", without warranties or conditions of any kind, either express
+or implied, including but not limited to warranties of merchantability, fitness
+for a particular purpose, title, and non-infringement.
